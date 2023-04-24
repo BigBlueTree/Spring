@@ -1,0 +1,10 @@
+Spring
+-자바 기반 애플리케이션 프레임워크
+IOC(Inversion of Control)
+-역 제어 흐름(메소드나 객체의 호출을 개발자가 아니라 외부에서 결정되는 것)
+DI(Dependency Injection)
+-의존성 주입
+
+-생성자 주입
+-세터 주입
+-인터페이스 주입
